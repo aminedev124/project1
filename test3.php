@@ -1,5 +1,10 @@
 <?php
 phpinfo();
+phpinfo();
+phpinfo();
+phpinfo();
+phpinfo();
+ssss
 public function getResulat(array $td)
 {
 	return $td;
